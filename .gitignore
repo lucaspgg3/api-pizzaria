@@ -10,7 +10,6 @@ env/
 
 # Env vars
 .env
-.env.*
 
 # Build
 build/
